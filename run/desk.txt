@@ -1,0 +1,3 @@
+баш скрипты для быстрого запуска проекты
+sudo chmod +x run/script.sh
+run/script.sh
