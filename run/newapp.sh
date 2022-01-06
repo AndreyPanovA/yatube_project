@@ -1,2 +1,6 @@
 #!/bin/bash
-yatube/manage.py startapp > echo
+line = '$1'
+cd yatube
+pwd
+echo "$1"
+python3 manage.py startapp $1ss
