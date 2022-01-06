@@ -1,6 +1,4 @@
 #!/Users/apple/Desktop/github/praktikum/sprint_3/yatube_project/venv/bin/python3
-<<<<<<< HEAD
-<<<<<<< HEAD
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
@@ -20,14 +18,4 @@ if __name__ == "__main__":
         'django-admin.py is deprecated in favor of django-admin.',
         RemovedInDjango40Warning,
     )
-=======
-from django.core import management
-
-if __name__ == "__main__":
->>>>>>> 0efae6b8ba0995009ac8fdaa5b7c1f9fa1ac2988
-=======
-from django.core import management
-
-if __name__ == "__main__":
->>>>>>> 0efae6b (first-commit)
     management.execute_from_command_line()
