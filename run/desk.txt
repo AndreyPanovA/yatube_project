@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-баш скрипты для быстрого запуска проекты
-=======
->>>>>>> 0efae6b8ba0995009ac8fdaa5b7c1f9fa1ac2988
+#!/bin/bash
+echo "баш скрипты для быстрого запуска проекты"
 sudo chmod +x run/script.sh
 run/script.sh
